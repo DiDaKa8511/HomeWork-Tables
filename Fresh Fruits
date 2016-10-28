@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Profile</title>
+</head>
+<body>
+	<div style="background-color: skyblue">
+		<h1>Doge Social Network</h1>
+		<ul type="disc">
+			<li><a href="file:///E:/Temp/sublimetext/Home.html">Home</a></li>
+			<li><a href="file:///E:/Temp/sublimetext/Profile.html">Profile</a></li>
+			<li><a href="file:///E:/Temp/sublimetext/Friends.html">Friends</a></li>
+		</ul>
+		<hr />
+		<h2>Profile of Doge</h2>
+		<hr />
+		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Toddy_Dog.jpg" alt="dog" width="150">
+		<br />
+		<b>Name</b>: Doge 
+		<br />
+		<b>Birthday</b>: Top secret
+		<br />
+		<b>Occupation</b>: Celebrity
+		<br />
+		<b>Area of occupation</b>: Web
+	</div>
+</body>
+</html>
